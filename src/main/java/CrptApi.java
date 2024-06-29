@@ -104,7 +104,7 @@ public class CrptApi {
       }
 
       /**
-       * Replace "your_bearer_token_here" with your actual bearer token.
+       * Replace "your_signature_token_here" with your actual bearer token.
        */
       public static void main(String[] args) {
             String signature = "your_signature_token_here";
